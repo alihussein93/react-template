@@ -3,10 +3,10 @@ export default {
     none: 'NONE',
     loaded: 'LOADED',
     authenticated: 'AUTHENTICATED',
-    unauthenticated: 'UNAUTHENTICATED',
+    unauthenticated: 'UNAUTHENTICATED'
   },
   locales: {
     en_US: 'en-US',
-    ar_AE: 'ar-AE',
-  },
+    ar_AE: 'ar-AE'
+  }
 };

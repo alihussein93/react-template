@@ -3,5 +3,5 @@ export default {
   appAuthenticated: 'stdAppAuthenticated',
   appUnauthenticated: 'stdAppUnauthenticated',
   changeLocale: 'stdChangeLocale',
-  authStatusUpdated: 'stdAuthStatusUpdated',
+  authStatusUpdated: 'stdAuthStatusUpdated'
 };
