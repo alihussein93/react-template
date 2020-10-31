@@ -1,0 +1,17 @@
+@mixin sm-font($weight, $color) {
+  font-size: 1.2rem !important;
+  font-weight: $weight !important;
+  color: $color !important;
+}
+
+@mixin sm-font($weight, $color) {
+  font-size: 1.4rem !important;
+  font-weight: $weight !important;
+  color: $color !important;
+}
+
+@mixin md-font($weight, $color) {
+  font-size: 1.6rem !important;
+  font-weight: $weight !important;
+  color: $color !important;
+}
