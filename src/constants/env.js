@@ -4,7 +4,7 @@ const environment = () => {
 
   return {
     endPoint: DEV_API,
-    sessionTime: INACTIVE_SESSION_TIME,
+    sessionTime: INACTIVE_SESSION_TIME
   };
 };
 

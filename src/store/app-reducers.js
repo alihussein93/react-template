@@ -3,7 +3,7 @@ import { combineReducers } from 'redux';
 import appReducer from 'containers/App/reducer';
 
 const appReducers = combineReducers({
-  app: appReducer,
+  app: appReducer
 });
 
 const rootReducer = (state, action) => appReducers(state, action);

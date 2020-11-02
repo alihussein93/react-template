@@ -18,7 +18,7 @@ class App extends Component {
   static getDerivedStateFromProps(nextProps, prevState) {
     if (nextProps.authStatus !== prevState.authStatus) {
       return {
-        authStatus: nextProps.authStatus,
+        authStatus: nextProps.authStatus
       };
     }
     return null;

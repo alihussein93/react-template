@@ -5,7 +5,7 @@ const initalState = {
   locale: Enums.locales.en_US,
   accessToken: '',
   accessTokenExpirationDate: '',
-  authStatus: Enums.authStatuses.authenticated,
+  authStatus: Enums.authStatuses.authenticated
 };
 
 const appReducer = (state = initalState, action) => {
